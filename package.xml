@@ -13,7 +13,6 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>MarketingProfile</members>
         <members>Minimum Access - Salesforce</members>
         <members>Standard</members>
         <name>Profile</name>
