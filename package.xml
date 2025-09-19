@@ -4,13 +4,5 @@
         <members>Account-Account Layout</members>
         <name>Layout</name>
     </types>
-    <types>
-        <members>Minimum Access - Salesforce</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>Account.Account_2</members>
-        <name>RecordType</name>
-    </types>
     <version>64.0</version>
 </Package>
