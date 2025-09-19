@@ -3067,6 +3067,13 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.Account_2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AuthorizationForm-Authorization Form Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3179,6 +3186,11 @@
         <viewAllFields>false</viewAllFields>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.Account_2</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
