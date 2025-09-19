@@ -266,6 +266,13 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Created_Date__c</fullName>
+        <label>Account Created Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
