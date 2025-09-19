@@ -3,6 +3,9 @@
     <types>
         <members>Account.Account_Created_Date__c</members>
         <members>Account.Account_Email__c</members>
+        <members>Account.Account_Feedback__c</members>
+        <members>Account.Queries__c</members>
+        <members>Account.queries_2__c</members>
         <name>CustomField</name>
     </types>
     <types>
