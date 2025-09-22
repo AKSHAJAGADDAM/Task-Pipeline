@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Account.Account_2</members>
         <members>Account.Account_3</members>
         <name>RecordType</name>
