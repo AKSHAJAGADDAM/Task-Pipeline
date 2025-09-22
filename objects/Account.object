@@ -266,6 +266,17 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Category__c</fullName>
+        <label>Account Category</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Account_Category</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Account_Created_Date__c</fullName>
         <label>Account Created Date</label>
         <required>false</required>
@@ -439,11 +450,29 @@
         <fullName>Account_2</fullName>
         <active>true</active>
         <label>Account-2</label>
+        <picklistValues>
+            <picklist>Account_Category__c</picklist>
+            <values>
+                <fullName>Credit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Savings</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <recordTypes>
         <fullName>Account_3</fullName>
         <active>true</active>
         <label>Account-3</label>
+        <picklistValues>
+            <picklist>Account_Category__c</picklist>
+            <values>
+                <fullName>Debit</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
