@@ -9,6 +9,10 @@
         <name>GlobalValueSet</name>
     </types>
     <types>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Account.Account_2</members>
         <members>Account.Account_3</members>
         <name>RecordType</name>

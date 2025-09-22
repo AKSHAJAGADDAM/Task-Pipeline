@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>Account_Created_Date__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Account_Category__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
