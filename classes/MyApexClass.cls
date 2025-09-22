@@ -1,8 +1,5 @@
 public class MyApexClass {
-    
-    // Simple method to return a greeting message
     public static String getGreeting(String name) {
-        return 'Hello, ' + name + '!';
+        return 'Hi there, ' + name + '!'; // <-- different from Dev1's 'Hello, ' + name + '!'
     }
-    
 }
