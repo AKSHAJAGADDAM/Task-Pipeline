@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Account_category_flow</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>Account_Category</members>
         <name>GlobalValueSet</name>
     </types>
