@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Assign_the_flow_to_record_types</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>Admin</members>
         <name>Profile</name>
     </types>
