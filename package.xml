@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.End_Date__c</members>
-        <name>CustomField</name>
+        <members>Home_Page_Default</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>myFirstLwc</members>
+        <name>LightningComponentBundle</name>
     </types>
     <version>64.0</version>
 </Package>
