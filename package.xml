@@ -8,5 +8,9 @@
         <members>myFirstLwc</members>
         <name>LightningComponentBundle</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
     <version>64.0</version>
 </Package>
