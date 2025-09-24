@@ -5,6 +5,11 @@
         <field>Account.Queries__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.Case_End_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>true</hasActivationRequired>
     <label>UserPermissions</label>
     <license>Salesforce</license>
