@@ -4,13 +4,5 @@
         <members>Case.Case_End_Date__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>UserPermissions</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
-        <members>Trial Customer Portal User</members>
-        <name>Profile</name>
-    </types>
     <version>64.0</version>
 </Package>
